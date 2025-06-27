@@ -10,7 +10,7 @@ sites:
   - name: Gorilla Games WI
     url: https://www.gorillagameswi.com/
   - name: Badger Meter
-    url: https://badgermeter.com
+    url: https://www.badgermeter.com
   - name: IPv6 test
     url: forwardemail.net
     port: 80

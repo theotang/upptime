@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-27": 21
+      "2025-06-27": 26
     }
   },
   {
@@ -42,18 +42,20 @@
     "url": "https://www.gorillagameswi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gorillagameswi.com.ico",
     "slug": "gorilla-games-wi",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 255,
-    "timeDay": 255,
-    "timeWeek": 255,
-    "timeMonth": 255,
-    "timeYear": 255,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
+    "time": 6682,
+    "timeDay": 6682,
+    "timeWeek": 6682,
+    "timeMonth": 6682,
+    "timeYear": 6682,
+    "dailyMinutesDown": {
+      "2025-06-27": 0
+    }
   },
   {
     "name": "Badger Meter",
@@ -61,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.badgermeter.com.ico",
     "slug": "badger-meter",
     "status": "down",
-    "uptime": "0.30%",
-    "uptimeDay": "0.30%",
-    "uptimeWeek": "0.30%",
-    "uptimeMonth": "0.30%",
-    "uptimeYear": "0.30%",
+    "uptime": "0.15%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "0.15%",
+    "uptimeMonth": "0.15%",
+    "uptimeYear": "0.15%",
     "time": 264,
     "timeDay": 264,
     "timeWeek": 264,
     "timeMonth": 264,
     "timeYear": 264,
     "dailyMinutesDown": {
-      "2025-06-27": 5
+      "2025-06-27": 10
     }
   },
   {

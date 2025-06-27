@@ -5,12 +5,12 @@ repo: upptime # The name of this repository
 sites:
   - name: home.6nat.com
     url: https://home.6nat.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Gorilla Games WI Square site
+    url: https://gorillagameswi.square.site
+  - name: Gorilla Games WI
+    url: https://www.gorillagameswi.com/
+  - name: Badger Meter
+    url: https://badgermeter.com
   - name: IPv6 test
     url: forwardemail.net
     port: 80
@@ -20,7 +20,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: demo.upptime.js.org
+  cname: theotang.github.io
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime

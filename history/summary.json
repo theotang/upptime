@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-06": 711,
+      "2025-07-06": 715,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
@@ -51,19 +51,19 @@
     "url": "https://www.gorillagameswi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gorillagameswi.com.ico",
     "slug": "gorilla-games-wi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2089,
-    "timeDay": 218,
-    "timeWeek": 253,
-    "timeMonth": 2089,
-    "timeYear": 2089,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1974,
+    "timeDay": 295,
+    "timeWeek": 268,
+    "timeMonth": 1974,
+    "timeYear": 1974,
     "dailyMinutesDown": {
-      "2025-07-06": 0
+      "2025-07-06": 4
     }
   },
   {
@@ -83,7 +83,7 @@
     "timeMonth": 158,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2025-07-06": 711,
+      "2025-07-06": 715,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,

@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-06": 59,
+      "2025-07-06": 711,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
@@ -51,7 +51,7 @@
     "url": "https://www.gorillagameswi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gorillagameswi.com.ico",
     "slug": "gorilla-games-wi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -62,7 +62,9 @@
     "timeWeek": 253,
     "timeMonth": 2089,
     "timeYear": 2089,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-06": 0
+    }
   },
   {
     "name": "Badger Meter",
@@ -81,7 +83,7 @@
     "timeMonth": 158,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2025-07-06": 59,
+      "2025-07-06": 711,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
